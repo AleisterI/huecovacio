@@ -1,0 +1,2 @@
+echo "# huecovacio" >> README.md 
+git init
